@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SIRmodel", "SIRmodel.vcxproj", "{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Debug|x64.ActiveCfg = Debug|x64
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Debug|x64.Build.0 = Debug|x64
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Debug|x86.Build.0 = Debug|Win32
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Release|x64.ActiveCfg = Release|x64
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Release|x64.Build.0 = Release|x64
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Release|x86.ActiveCfg = Release|Win32
+		{50FE5EA6-CA89-4530-A810-2AE8E9B10E6D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD22EAA-3B78-4C3E-B636-2490329F7A72}
+	EndGlobalSection
+EndGlobal
